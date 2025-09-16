@@ -1,0 +1,9 @@
+.pink-square {
+    background-color: rgb(255, 101, 132);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 55%;
+    left: 0;
+    z-index: -1;
+  }
